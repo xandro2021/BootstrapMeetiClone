@@ -8,3 +8,7 @@ This is submodule of my studying notes which were released as a public project i
 [[https://xandro2021.github.io/BootstrapMeetiClone/][Github Pages Link]]
 
 * Interesting things learned in this Project
++ Install dependencies for development
+#+begin_src bash
+npm i --save-dev bootstrap sass
+#+end_src
