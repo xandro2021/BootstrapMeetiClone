@@ -1,0 +1,19 @@
+{
+  "name": "bootstrapmeeticlone",
+  "version": "1.0.0",
+  "description": "Aprendiendo Bootstrap y SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandro2021/BootstrapMeetiClone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xandro2021/BootstrapMeetiClone/issues"
+  },
+  "homepage": "https://github.com/xandro2021/BootstrapMeetiClone#readme"
+}
