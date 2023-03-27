@@ -4,7 +4,8 @@
   "description": "Aprendiendo Bootstrap y SCSS",
   "main": "index.js",
   "scripts": {
-    "compilar:sass": "sass --watch src/scss:build/css"
+    "compilar:sass": "sass --watch src/scss:build/css",
+    "build:sass": "purgecss --css build/css/style.css --content *.html --output build/css/meeti.css"
   },
   "repository": {
     "type": "git",
